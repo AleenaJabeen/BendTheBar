@@ -1,0 +1,19 @@
+<svg width="23" height="26" viewBox="0 0 23 26" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M11.386 13.521C10.9544 13.5227 10.5353 13.6657 10.1931 13.928C9.85094 14.1904 9.60462 14.5575 9.49205 14.973C9.37947 15.3886 9.40686 15.8294 9.57001 16.2279C9.73316 16.6264 10.023 16.9604 10.3951 17.1786V19.9806H12.4012V17.1786C12.6955 17.005 12.9398 16.7584 13.1103 16.4627C13.2807 16.1671 13.3716 15.8325 13.374 15.4914C13.374 15.2317 13.3225 14.9745 13.2224 14.7346C13.1224 14.4948 12.9758 14.277 12.791 14.0939C12.6063 13.9107 12.387 13.7659 12.1459 13.6675C11.9048 13.5692 11.6465 13.5194 11.386 13.521Z" stroke="url(#paint0_linear_130_689)" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M18.8132 8.99585H3.95478C2.51313 8.99585 1.34444 10.1613 1.34444 11.599V21.8969C1.34444 23.3346 2.51313 24.5 3.95478 24.5H18.8132C20.2548 24.5 21.4235 23.3346 21.4235 21.8969V11.599C21.4235 10.1613 20.2548 8.99585 18.8132 8.99585Z" stroke="url(#paint1_linear_130_689)" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M4.95103 8.99612V7.42341C4.95103 5.71982 5.62966 4.086 6.83763 2.88137C8.0456 1.67675 9.68396 1 11.3923 1C13.1006 1 14.739 1.67675 15.9469 2.88137C17.1549 4.086 17.8335 5.71982 17.8335 7.42341V8.99612" stroke="url(#paint2_linear_130_689)" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<defs>
+<linearGradient id="paint0_linear_130_689" x1="11.3989" y1="13.521" x2="11.3989" y2="19.9806" gradientUnits="userSpaceOnUse">
+<stop stop-color="#D93732"/>
+<stop offset="1" stop-color="#D93731"/>
+</linearGradient>
+<linearGradient id="paint1_linear_130_689" x1="11.384" y1="8.99585" x2="11.384" y2="24.5" gradientUnits="userSpaceOnUse">
+<stop stop-color="#D93732"/>
+<stop offset="1" stop-color="#D93731"/>
+</linearGradient>
+<linearGradient id="paint2_linear_130_689" x1="11.3923" y1="1" x2="11.3923" y2="8.99612" gradientUnits="userSpaceOnUse">
+<stop stop-color="#D93732"/>
+<stop offset="1" stop-color="#D93731"/>
+</linearGradient>
+</defs>
+</svg>

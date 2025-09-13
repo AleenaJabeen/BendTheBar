@@ -1,0 +1,44 @@
+@import "tailwindcss";
+/* === Gradient Text === */
+.gradient-text {
+  background: linear-gradient(to right, #d93732, #d93731);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  color: transparent;
+}
+
+/* === Gradient Background === */
+.gradient-bg {
+  background: linear-gradient(to right, #d93732, #d93731);
+}
+.gradient-checkbox {
+  appearance: none;
+  -webkit-appearance: none;
+  width: 20px;
+  height: 20px;
+  border: 2px solid #ccc;
+  border-radius: 5px;
+  cursor: pointer;
+  position: relative;
+}
+.gradient-checkbox:checked {
+  background: linear-gradient(to right, #d93732, #d93731);
+  border: none;
+}
+
+.gradient-checkbox:checked::after {
+  content: "✔";
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -55%);
+  font-size: 14px;
+  color: white;
+}
+.border-gradient {
+  border-image: linear-gradient(to right, #d93732, #d93731) 1;
+}
+.no-scrollbar::-webkit-scrollbar {
+  display: none;
+}
