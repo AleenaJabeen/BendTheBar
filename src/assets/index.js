@@ -54,7 +54,7 @@ import grayArrow from './UsersAssets/grayArrow.svg';
 import burger from './UsersAssets/burger.png';
 import burrito from './UsersAssets/burrito.png';
 import pizzaBurger from './UsersAssets/pizzaBurger.png';
-import warmup from './UsersAssets/warmup.png';
+import warmup from './UsersAssets/Warmup.png';
 import helpIcon from './UsersAssets/helpIcon.svg';
 import Topology from './UsersAssets/Topology.svg';
 import fire2 from './UsersAssets/fire2.svg';
